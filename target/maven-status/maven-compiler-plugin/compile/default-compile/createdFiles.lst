@@ -1,0 +1,10 @@
+com\CRM\qa\config\ReadPropFile.class
+com\CRM\qa\config\SignUP.class
+com\CRM\base\TestBase.class
+com\CRM\qa\config\Base.class
+com\CRM\qa\config\ContractsPage.class
+com\CRM\qa\config\HomePage.class
+com\CRM\qa\config\Mousemovements.class
+com\CRM\qa\config\LoginPage.class
+com\CRM\qa\config\program.class
+com\CRM\qa\util\TestUtil.class
